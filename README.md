@@ -8,3 +8,7 @@ This is a simple digital calculator application built using Java Swing. It suppo
 - Infix to prefix conversion: Converts infix expressions to prefix notation before evaluation.
 - Evaluation of prefix expressions.
 - Follows __MDAS__ rule: The calculator evaluates expressions using the MDAS rule for operator precedence.
+
+## Sample Output
+![image](https://github.com/user-attachments/assets/80243730-1e17-4489-b775-0b27217da0e2)
+
